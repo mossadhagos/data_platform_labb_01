@@ -1,5 +1,5 @@
 import pandas as pd
-"""
+"""""
 Laboration 1 – Data Pipeline med Pandas.
 
 Programmet läser in produktdata från en CSV-fil, transformerar och rensar datan,
@@ -8,7 +8,7 @@ curated dataset för analys.
 
 Slutligen genereras sammanfattningsfiler med statistik såsom snittpris,
 medianpris och antal produkter samt (bonus) prisanalys.
-"""
+"""""
 
 def load_data(filepath):
     """Läser in CSV-filen med korrekt separator."""
