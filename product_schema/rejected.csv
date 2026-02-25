@@ -3,7 +3,7 @@ id,name,price,currency,created_at,missing_currency,is_free,extreme_price
 SKU-1005,,,, ,True,False,False
 SKU-1006,designer coat,,SEK,2024-05-01,False,False,False
 ,hat,,SEK,,False,False,False
-SKU-1008, gloves ,120.0,,2024-06-20,True,False,False
+SKU-1008,gloves,120.0,,2024-06-20,True,False,False
 SKU-1015,hoodie,-50.0,SEK,2024-04-15,False,False,False
 SKU-1043,cardigan,,SEK,2024-11-15,False,False,False
 SKU-1052,coat,,SEK,2025-01-10,False,False,False
